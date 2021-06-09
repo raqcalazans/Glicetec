@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739264217769",
+    "project_id": "glicetec",
+    "storage_bucket": "glicetec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739264217769:android:5bce85abb0939e0d8c1fb8",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739264217769-j7ff8udn7d4q9s5534aaq9sla79getjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "3affea2a947540152d515b688a51795378b893d2"
+          }
+        },
+        {
+          "client_id": "739264217769-hg698rc1i4i7924pb8pcmcslub647fam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQudoYneb4Y6QZWHjsU1Jxovc3HDC_av4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739264217769-hg698rc1i4i7924pb8pcmcslub647fam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
